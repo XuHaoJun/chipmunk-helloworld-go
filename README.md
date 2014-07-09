@@ -5,5 +5,8 @@ segment, then rolls off. Print out the coordinates of the ball.
 
 [origin-c-version](http://chipmunk-physics.net/release/ChipmunkLatest-Docs/)
 
-## Install
+## Install Go chipmunk
 go get -u github.com/vova616/chipmunk
+
+## Usage
+go run chipmunk-helloworld.go
